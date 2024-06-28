@@ -5,7 +5,7 @@ description: Training Workshop Content Page (Tumbes, Perú - 2024)
 theme: just-the-docs
 logo: "https://www.sei.org/wp-content/themes/sei/assets/src/sprite-images/logo.svg"
 
-url: https://cafigueroao.github.io
+url: https://sei-latam.github.io
 
 # Aux links for the upper right navigation
 aux_links:
@@ -18,4 +18,4 @@ aux_links_new_tab: true
 # Footer content
 # appears at the bottom of every page's main content
 # Note: The footer_content option is deprecated and will be removed in a future major release. Please use `_includes/footer_custom.html` for more robust markup / liquid-based content.
-footer_content: "Copyright &copy; 2024 SEI / Water Group. Distributed by an <a href=\"https://github.com/cafigueroao/peru-training-web-2024/blob/main/LICENSE\">MIT License.</a>"
+footer_content: "Copyright &copy; 2024 SEI / Water Group. Distributed by an <a href=\"https://github.com/sei-latam/peru-web-training-2024/blob/main/LICENSE\">MIT License.</a>"
