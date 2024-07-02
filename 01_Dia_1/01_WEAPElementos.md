@@ -184,6 +184,6 @@ Las plantas de tratamiento de aguas residuales reciben agua de sitios de demanda
 <br>
 
 ## Archivos Entrenamiento WEAP tumbes (Día 1)
-[Archivos]((https://drive.google.com/file/d/1BBJLetepPTShrA63oH_BwZC0zP8OMkMa/view?usp=sharing)
+[Archivos](https://drive.google.com/file/d/1BBJLetepPTShrA63oH_BwZC0zP8OMkMa/view?usp=sharing)
 
 WEAP. (2015). *WEAP User Guide*. Recuperado de [https://www.weap21.org/downloads/weap_user_guide.pdf](https://www.weap21.org/downloads/weap_user_guide.pdf)
