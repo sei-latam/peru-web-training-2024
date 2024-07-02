@@ -182,8 +182,7 @@ Los flujos de retorno de plantas de tratamiento de aguas residuales pueden dirig
 Las plantas de tratamiento de aguas residuales reciben agua de sitios de demanda, eliminan contaminantes y luego devuelven efluentes tratados a uno o más sitios de demanda, nodos de río o fuentes locales de suministro. Una planta de tratamiento de aguas residuales puede recibir aguas residuales de múltiples sitios de demanda.
 
 <br>
-<!-- 
 ## Archivos Entrenamiento WEAP tumbes (Día 1)
-[Archivos](https://github.com/sei-latam/peru-web-training-2024/blob/main/Modelo/EntrenamientoWEAPtumbes_2024_07_01_19_19_54.zip)
--->
+[Archivos]((https://drive.google.com/file/d/1BBJLetepPTShrA63oH_BwZC0zP8OMkMa/view?usp=sharing)
+
 WEAP. (2015). *WEAP User Guide*. Recuperado de [https://www.weap21.org/downloads/weap_user_guide.pdf](https://www.weap21.org/downloads/weap_user_guide.pdf)
