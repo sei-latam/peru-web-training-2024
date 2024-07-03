@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Martes 2 de julio
+title: Martes 4 de julio
 permalink: /Dia_02
 has_children: True
 nav_order: 3
@@ -12,11 +12,11 @@ nav_order: 3
 
 | Hora | Duración | Contenido | Encargado |
 |:---:|:---:|:---:|:---:|
-| 09:00 | 1 hr | Desarrollo de una esquema mediante delimitación de cuencas en WEAP (Cuencas y Ríos) / FABdem_Delimitacion | [Gustavo Ayala - SEI](gustavo.ayala@sei.org), [Albeiro Figueroa](albeiro.figueroa@sei.org) |
-| 10:00 | 1 hr | Manejo de clima, uso de suelo e hidrología en WEAP/Código para extraer datos de NETCDF a polígonos | [Gustavo Ayala - SEI](gustavo.ayala@sei.org), [Albeiro Figueroa](albeiro.figueroa@sei.org) |
-| 11:00 | Break de 10 minutos |
-| 11:15 | 0.5 hr | Representación de demandas genéricas (Demand Sites, Transmisión links, Return flows) | [Gustavo Ayala - SEI](gustavo.ayala@sei.org) |
-| 11:15 | 0.75 hr | Representación de sistema de regulación y almacenamiento de agua (Reservorios) | [Gustavo Ayala - SEI](gustavo.ayala@sei.org) |
+| 09:00 | 1 hr | Desarrollo de un esquema mediante delimitación de cuencas en WEAP (Cuencas y Ríos) | [Gustavo Ayala - SEI](mailto:gustavo.ayala@sei.org), [Albeiro Figueroa](mailto:albeiro.figueroa@sei.org) |
+| 10:00 | 1 hr | Manejo de clima, uso de suelo e hidrología en WEAP/Código para extraer datos de NETCDF a polígonos | [Gustavo Ayala - SEI](mailto:gustavo.ayala@sei.org), [Albeiro Figueroa](mailto:albeiro.figueroa@sei.org) |
+| 11:00 | Break de 10 minutos |||
+| 11:15 | 0.5 hr | Representación de demandas genéricas (Demand Sites, Transmisión links, Return flows) | [Gustavo Ayala - SEI](mailto:gustavo.ayala@sei.org) |
+| 11:15 | 0.75 hr | Representación de sistema de regulación y almacenamiento de agua (Reservorios) | [Gustavo Ayala - SEI](mailto:gustavo.ayala@sei.org) |
 
 <p style="text-align: justify;">WEAP como herramienta permite modelar el impacto de diferentes estrategias de gestión de recursos hídricos sobre los ecosistemas y sectores productivos en una región. Esto incluye el análisis de caudales ecológicos necesarios para mantener la salud de los ríos y cuerpos de agua asociados, así como representar toda la dinámica detrás de la distribución de recursos hídricos para agricultura, dotación de agua para uso doméstico, producción de energía. </p> 
 
@@ -44,8 +44,10 @@ Al seguir este sencillo procedimiento, asegurará que su valioso trabajo en Goog
   <img src="../peru-web-training-2024/images/NotaColabNo1.png" alt="Cómo guardar sus libros de trabajo de Colab en Google Drive">
 </p>
 
-## Primera sesión
-1. [Introducción a modelos en recursos hídricos y productos hidro climáticos de reanálisis](https://githubtocolab.com/sei-latam/peru-web-training-2024/blob/main/Notebooks/Introduccion_modelos_gestion.ipynb).
-3. [Instalación, licencia y componentes de WEAP](https://githubtocolab.com/sei-latam/peru-web-training-2024/blob/main/Notebooks/Introduccion_a_WEAP.ipynb).
-4. [Conceptos básicos de una esquemática en WEAP - Elementos](/peru-web-training-2024/01_Dia_1/01_WEAPElementos).
-5. [Conceptos básicos del manejo de la data en WEAP - Nodos, Líneas](https://githubtocolab.com/sei-latam/peru-web-training-2024/blob/main/Notebooks/Datos%20en%20WEAP.ipynb).
+## Segunda sesión
+1.1. [Desarrollo de un esquema mediante delimitación de cuencas en WEAP (Cuencas y Ríos) - Parte 1](https://githubtocolab.com/sei-latam/peru-web-training-2024/blob/main/Notebooks/Introduccion_modelos_gestion.ipynb).
+1.2. [Desarrollo de un esquema mediante delimitación de cuencas en WEAP (Cuencas y Ríos) - Parte 2](https://githubtocolab.com/sei-latam/peru-web-training-2024/blob/main/Notebooks/Introduccion_modelos_gestion.ipynb).
+2.1. [Manejo de clima, uso de suelo e hidrología en WEAP/Código para extraer datos de NETCDF a polígonos - Parte 1](https://githubtocolab.com/sei-latam/peru-web-training-2024/blob/main/Notebooks/Introduccion_a_WEAP.ipynb).
+2.2. [Manejo de clima, uso de suelo e hidrología en WEAP/Código para extraer datos de NETCDF a polígonos - Parte 2](https://githubtocolab.com/sei-latam/peru-web-training-2024/blob/main/Notebooks/Introduccion_a_WEAP.ipynb).
+3.1. [Representación de demandas genéricas (Demand Sites, Transmisión links, Return flows)](https://githubtocolab.com/sei-latam/peru-web-training-2024/blob/main/Notebooks/Introduccion_a_WEAP.ipynb).
+4.1. [Representación de sistema de regulación y almacenamiento de agua (Reservorios)](https://githubtocolab.com/sei-latam/peru-web-training-2024/blob/main/Notebooks/Introduccion_a_WEAP.ipynb).
