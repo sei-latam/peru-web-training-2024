@@ -51,3 +51,4 @@ Al seguir este sencillo procedimiento, asegurará que su valioso trabajo en Goog
 4. [Manejo de clima, uso de suelo e hidrología en WEAP/Código para extraer datos de NETCDF a polígonos - Parte 2](https://githubtocolab.com/sei-latam/peru-web-training-2024/blob/main/Notebooks/Introduccion_a_WEAP.ipynb).
 5. [Representación de demandas genéricas (Demand Sites, Transmisión links, Return flows)](https://githubtocolab.com/sei-latam/peru-web-training-2024/blob/main/Notebooks/Introduccion_a_WEAP.ipynb).
 6. [Representación de sistema de regulación y almacenamiento de agua (Reservorios)](https://githubtocolab.com/sei-latam/peru-web-training-2024/blob/main/Notebooks/Introduccion_a_WEAP.ipynb).
+
