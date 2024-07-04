@@ -45,7 +45,7 @@ Al seguir este sencillo procedimiento, asegurará que su valioso trabajo en Goog
 </p>
 
 ## Segunda sesión
-1. [Desarrollo de un esquema mediante delimitación de cuencas en WEAP (Cuencas y Ríos) - Parte 1](https://githubtocolab.com/sei-latam/peru-web-training-2024/blob/main/Notebooks/Introduccion_modelos_gestion.ipynb).
+1. [Desarrollo de un esquema mediante delimitación de cuencas en WEAP (Cuencas y Ríos) - Parte 1](https://githubtocolab.com/sei-latam/peru-web-training-2024/blob/main/Notebooks/DelimitacionDeCuencasHidrograficas.ipynb).
 2. [Desarrollo de un esquema mediante delimitación de cuencas en WEAP (Cuencas y Ríos) - Parte 2](https://githubtocolab.com/sei-latam/peru-web-training-2024/blob/main/Notebooks/Esquematica%20en%20WEAP.ipynb).
 3. [Manejo de clima, uso de suelo e hidrología en WEAP/Código para extraer datos de NETCDF a polígonos - Parte 1](https://githubtocolab.com/sei-latam/peru-web-training-2024/blob/main/Notebooks/Introduccion_a_WEAP.ipynb).
 4. [Manejo de clima, uso de suelo e hidrología en WEAP/Código para extraer datos de NETCDF a polígonos - Parte 2](https://githubtocolab.com/sei-latam/peru-web-training-2024/blob/main/Notebooks/Introduccion_a_WEAP.ipynb).
