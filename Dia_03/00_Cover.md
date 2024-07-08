@@ -45,8 +45,4 @@ Al seguir este sencillo procedimiento, asegurará que su valioso trabajo en Goog
 </p>
 
 ## Segunda sesión
-1. [Conceptos sobre modelación hidrológica en WEAP(Método de Humedad de suelos)](https://githubtocolab.com/sei-latam/peru-web-training-2024/blob/main/Notebooks/Introduccion_modelos_gestion.ipynb).
-2. [Configuración de Clima en la cuenca Tumbes (precipitación, temperatura, evapotranspiración de referencia)](https://githubtocolab.com/sei-latam/peru-web-training-2024/blob/main/Notebooks/Introduccion_modelos_gestion.ipynb).
-3. [Manejo de información SIG de tipo y uso de suelo en WEAP](https://githubtocolab.com/sei-latam/peru-web-training-2024/blob/main/Notebooks/Introduccion_a_WEAP.ipynb).
-4. [Parametrización de un modelo hidrológico en WEAP (key assumptions y export/import expresión to excel)](https://githubtocolab.com/sei-latam/peru-web-training-2024/blob/main/Notebooks/Introduccion_a_WEAP.ipynb).
-5. [Interpretación de los resultados de modelación (Precipitación/Escorrentía/Evapotranspiración real/Caudal) para calibración de un modelo hidrológico](https://githubtocolab.com/sei-latam/peru-web-training-2024/blob/main/Notebooks/Introduccion_a_WEAP.ipynb).
+1. [Material de sesión no 3)](https://githubtocolab.com/sei-latam/peru-web-training-2024/blob/main/Notebooks/Sesion 3.ipynb).
