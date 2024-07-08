@@ -45,10 +45,8 @@ Al seguir este sencillo procedimiento, asegurará que su valioso trabajo en Goog
 </p>
 
 ## Segunda sesión
-1. [Desarrollo de un esquema mediante delimitación de cuencas en WEAP (Cuencas y Ríos) - Parte 1](https://githubtocolab.com/sei-latam/peru-web-training-2024/blob/main/Notebooks/Introduccion_modelos_gestion.ipynb).
-2. [Desarrollo de un esquema mediante delimitación de cuencas en WEAP (Cuencas y Ríos) - Parte 2](https://githubtocolab.com/sei-latam/peru-web-training-2024/blob/main/Notebooks/Introduccion_modelos_gestion.ipynb).
-3. [Manejo de clima, uso de suelo e hidrología en WEAP/Código para extraer datos de NETCDF a polígonos - Parte 1](https://githubtocolab.com/sei-latam/peru-web-training-2024/blob/main/Notebooks/Introduccion_a_WEAP.ipynb).
-4. [Manejo de clima, uso de suelo e hidrología en WEAP/Código para extraer datos de NETCDF a polígonos - Parte 2](https://githubtocolab.com/sei-latam/peru-web-training-2024/blob/main/Notebooks/Introduccion_a_WEAP.ipynb).
-5. [Representación de demandas genéricas (Demand Sites, Transmisión links, Return flows)](https://githubtocolab.com/sei-latam/peru-web-training-2024/blob/main/Notebooks/Introduccion_a_WEAP.ipynb).
-6. [Representación de sistema de regulación y almacenamiento de agua (Reservorios)](https://githubtocolab.com/sei-latam/peru-web-training-2024/blob/main/Notebooks/Introduccion_a_WEAP.ipynb).
-
+1. [Conceptos sobre modelación hidrológica en WEAP(Método de Humedad de suelos)](https://githubtocolab.com/sei-latam/peru-web-training-2024/blob/main/Notebooks/Introduccion_modelos_gestion.ipynb).
+2. [Configuración de Clima en la cuenca Tumbes (precipitación, temperatura, evapotranspiración de referencia)](https://githubtocolab.com/sei-latam/peru-web-training-2024/blob/main/Notebooks/Introduccion_modelos_gestion.ipynb).
+3. [Manejo de información SIG de tipo y uso de suelo en WEAP](https://githubtocolab.com/sei-latam/peru-web-training-2024/blob/main/Notebooks/Introduccion_a_WEAP.ipynb).
+4. [Parametrización de un modelo hidrológico en WEAP (key assumptions y export/import expresión to excel)](https://githubtocolab.com/sei-latam/peru-web-training-2024/blob/main/Notebooks/Introduccion_a_WEAP.ipynb).
+5. [Interpretación de los resultados de modelación (Precipitación/Escorrentía/Evapotranspiración real/Caudal) para calibración de un modelo hidrológico](https://githubtocolab.com/sei-latam/peru-web-training-2024/blob/main/Notebooks/Introduccion_a_WEAP.ipynb).
