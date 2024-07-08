@@ -45,4 +45,4 @@ Al seguir este sencillo procedimiento, asegurará que su valioso trabajo en Goog
 </p>
 
 ## Segunda sesión
-1. [Instrucciones y presentaciones de ayuda (Material de sesión no 3)](https://githubtocolab.com/sei-latam/peru-web-training-2024/blob/main/Notebooks/Sesion 3.ipynb).
+1. [Instrucciones y presentaciones de ayuda (Material de sesión no 3)](https://githubtocolab.com/sei-latam/peru-web-training-2024/blob/main/Notebooks/Sesion%203.ipynb).
