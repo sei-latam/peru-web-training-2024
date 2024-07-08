@@ -46,3 +46,4 @@ Al seguir este sencillo procedimiento, asegurará que su valioso trabajo en Goog
 
 ## Segunda sesión
 1. [Instrucciones y presentaciones de ayuda (Material de sesión no 3)](https://githubtocolab.com/sei-latam/peru-web-training-2024/blob/main/Notebooks/Sesion%203.ipynb).
+2. [Manejo de información SIG de tipo y uso de suelo en WEAP](https://githubtocolab.com/sei-latam/peru-web-training-2024/blob/main/Notebooks/TipoUsoSuelos_Python.ipynb)
