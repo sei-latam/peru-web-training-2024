@@ -44,7 +44,7 @@ Al seguir este sencillo procedimiento, asegurará que su valioso trabajo en Goog
   <img src="../peru-web-training-2024/images/NotaColabNo1.png" alt="Cómo guardar sus libros de trabajo de Colab en Google Drive">
 </p>
 
-## Segunda sesión
+## Cuarta sesión
 
-## Segunda sesión
-1. [Instrucciones y presentaciones de ayuda (Material de sesión no 4).](https://githubtocolab.com/sei-latam/peru-web-training-2024/blob/main/Notebooks/Introduccion_modelos_gestion.ipynb).
+## Cuarta sesión
+1. [Instrucciones y presentaciones de ayuda (Material de la sesión 4).](https://githubtocolab.com/sei-latam/peru-web-training-2024/blob/main/Notebooks/Sesion%204.ipynb).
