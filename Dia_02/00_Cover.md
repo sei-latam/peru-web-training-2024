@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Martes 4 de julio
+title: Jueves 4 de julio
 permalink: /Dia_02
 has_children: True
 nav_order: 3
@@ -8,7 +8,7 @@ nav_order: 3
 
 # Agenda de la sesión
 
-## Martes 4 de julio
+## Jueves 4 de julio
 
 | Hora | Duración | Contenido | Encargado |
 |:---:|:---:|:---:|:---:|
